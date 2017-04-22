@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caculater</string>
+    <dimen name="layout_width">250px</dimen>
+    <dimen name="btn_con_length">65px</dimen>
+    <dimen name="btn_con_marginLeft">55px</dimen>
+    <dimen name="btn_length">50px</dimen>
+</resources>

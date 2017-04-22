@@ -1,0 +1,10 @@
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$5$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$1$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$4$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$3$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$2$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$1$6$override.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Study\Android\Projects\Caculater\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\au\edu\anu\u5833429\caculater\MainActivity$calc$override.class

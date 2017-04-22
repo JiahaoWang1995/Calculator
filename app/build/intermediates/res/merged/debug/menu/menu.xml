@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/programmer_mode"
+        android:orderInCategory="100"
+        android:title="Programmer Mode"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/web_mode"
+        android:orderInCategory="100"
+        android:title="Advanced mode"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never" />
+</menu>
